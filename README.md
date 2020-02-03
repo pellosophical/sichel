@@ -1,2 +1,3 @@
 # sichel
-a typeface by ap.
+a typeface by pellosophical
+http://pellosophical.com/sichel
